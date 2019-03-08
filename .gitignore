@@ -1,2 +1,6 @@
 *.txt
 env/
+files.py
+*.cfg
+*pycache*
+*.csv
